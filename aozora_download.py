@@ -1,3 +1,8 @@
+"""
+writed by Fumiaki Yoshida
+2018/12/18
+"""
+
 import pandas as pd
 import os
 import requests
