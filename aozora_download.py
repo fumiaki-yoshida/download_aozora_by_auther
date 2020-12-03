@@ -1,5 +1,5 @@
 """
-writed by Fumiaki Yoshida
+written by Fumiaki Yoshida
 2018/12/18
 """
 
